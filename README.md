@@ -1,2 +1,5 @@
 # Python Guru
-Some unfamiliar Python topics
+
+Hi there.. You can find Some unfamiliar Python topics here.
+
+Hope you will get what you wanted!
