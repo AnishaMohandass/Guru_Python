@@ -1,2 +1,2 @@
-# Guru_Python
+# Python Guru
 Some unfamiliar Python topics
